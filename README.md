@@ -2,6 +2,8 @@
 A side project that simulates a text-based, player vs. computer Battleship game.
 
 # Battleship Game
+![GitHub](https://img.shields.io/github/license/adedhi/battleship-java)
+
 This is a Java implementation of the classic game Battleship. This program allows players to compete against the computer in a turn-based naval combat simulation. It provides a command-line interface for players to input their moves and track the progress of the game. The computer uses a random ship placement algorithm and an intelligent strategy for choosing hit positions, allowing it to keep track of the player's ships.
 
 # Features
