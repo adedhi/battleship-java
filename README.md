@@ -15,6 +15,8 @@ A side project that simulates a text-based, player vs. computer Battleship game.
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
+------------------------------
+
 # Battleship Game
 ![GitHub](https://img.shields.io/github/license/adedhi/battleship-java)
 
@@ -43,6 +45,8 @@ This is a Java implementation of the classic game Battleship. This program allow
 - Each player (you and the computer) has five ships of different lengths to place on the board.
 - Players take turn guessing the positions of each other's ships by providing coordinates.
 - The first player to sink all the opponent's ships wins the game.
+
+------------------------------
 
 # Contributing
 Contributions to this project are welcome. Please feel free to contribute.
