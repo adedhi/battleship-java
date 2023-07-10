@@ -36,7 +36,7 @@ This is a Java implementation of the classic game Battleship. This program allow
 Contributions to this project are welcome. Please feel free to contribute.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - learn more about it [here](LICENSE).
 
 # Acknowledgements
 - The game logic and structure were inspired by the classic Battleship board game.
