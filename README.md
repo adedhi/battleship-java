@@ -3,6 +3,18 @@ A side project that simulates a text-based, player vs. computer Battleship game.
 
 ------------------------------
 
+# Table of Contents
+- [Battleship Game](#battleship-game)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Gameplay](#gameplay)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
+
 # Battleship Game
 ![GitHub](https://img.shields.io/github/license/adedhi/battleship-java)
 
